@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+K: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [351.4783, 0.0, 323.6202, 0.0, 351.5191, 177.6441, 0.0, 0.0, 1.0]
+D: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [-0.1647, 0.0203, 0.0013, -0.00080888, 0.0]
+board_width: 8
+board_height: 11
+square_size: 30
